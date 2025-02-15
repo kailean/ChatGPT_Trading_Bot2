@@ -1,1 +1,1 @@
-# ChatGPT_Trading_Bot2
+# ChatGPT_Trading_Bot3
